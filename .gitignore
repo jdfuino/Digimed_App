@@ -1,0 +1,29 @@
+# macOS metadata
+__MACOSX/
+.DS_Store
+
+# Archive files (source is now extracted)
+*.zip
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.g.dart
+*.freezed.dart
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Misc
+*.log
+*.pyc
+.env

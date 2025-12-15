@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBWzLnP5r0bbyk9Yj2Ca1k0TokU89mdDqE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>130351280458</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.priver.digimed</string>
+	<key>PROJECT_ID</key>
+	<string>digimed-ae1d4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digimed-ae1d4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:130351280458:ios:4c5d9b3ad8db8cd30351b3</string>
+</dict>
+</plist>

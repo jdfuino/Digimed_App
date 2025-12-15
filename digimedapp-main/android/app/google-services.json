@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130351280458",
+    "project_id": "digimed-ae1d4",
+    "storage_bucket": "digimed-ae1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130351280458:android:7d86a3357e1773970351b3",
+        "android_client_info": {
+          "package_name": "app.priver.digimed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAtlBo5nY5e-TxLH0-K9V5ii5SZCpMARw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
